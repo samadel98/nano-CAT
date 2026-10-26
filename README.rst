@@ -1,3 +1,9 @@
+**This repository has moved.** Nano-CAT is now developed, with its full history, in the
+`nano-CAT/ folder of the CAT repository <https://github.com/samadel98/CAT/tree/master/nano-CAT>`__,
+and this repository is no longer updated. Install Nano-CAT from there with
+``pip install git+https://github.com/samadel98/CAT git+https://github.com/samadel98/auto-FOX "Nano-CAT @ git+https://github.com/samadel98/CAT#subdirectory=nano-CAT"``,
+and open issues and pull requests in the `CAT repository <https://github.com/samadel98/CAT>`__.
+
 .. image:: https://github.com/samadel98/nano-CAT/actions/workflows/pythonpackage.yml/badge.svg?branch=master
    :target: https://github.com/samadel98/nano-CAT/actions/workflows/pythonpackage.yml?query=branch%3Amaster
 .. image:: https://github.com/samadel98/CAT/actions/workflows/docs.yml/badge.svg?branch=master
